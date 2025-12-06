@@ -6,7 +6,7 @@ This repository contains multiple beginner-friendly JavaScript projects that hel
 
 Project List
 
-counter/
+**counter/
 A simple counter app that increases, decreases, and resets numbers using JavaScript DOM events.
 
 **Features**
@@ -15,7 +15,7 @@ A simple counter app that increases, decreases, and resets numbers using JavaScr
 
 ---
 
-guessNumber/
+**guessNumber/
 A number guessing game where the user tries to guess a randomly generated number.
 
 **Features**
