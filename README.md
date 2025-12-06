@@ -2,9 +2,9 @@ JavaScript Projects Repository
 
 This repository contains multiple beginner-friendly JavaScript projects that helped me practice DOM manipulation, events, logic, and UI handling.
 
-
-
 Project List
+
+
 
 **counter/
 A simple counter app that increases, decreases, and resets numbers using JavaScript DOM events.
