@@ -43,15 +43,8 @@ A simple web-based dice roller built using HTML, CSS, and JavaScript. Users can 
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - HTML
 - CSS
 - JavaScript 
 
----
-
-## 🚀 How to Run
-
-1. Download or clone the repository:
-   ```bash
-   git clone <your-repo-link>
