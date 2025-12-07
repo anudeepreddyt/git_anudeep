@@ -34,6 +34,11 @@ A temperature conversion tool that converts:
 - Input validation
 - Radio button mode selection
 - Dynamic result display
+  
+---
+
+**diceRoller/
+A simple web-based dice roller built using HTML, CSS, and JavaScript. Users can choose how many dice to roll (1–6), and the app generates random results, displaying both the numeric values and matching dice icons. Includes a reset option and interactive UI.
 
 ---
 
