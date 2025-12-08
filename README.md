@@ -43,6 +43,13 @@ A simple web-based dice roller built using HTML, CSS, and JavaScript. Users can 
 
 ---
 
+**randomPass/
+
+This project generates a unique and semi-random password based on user input. The user provides their first name, last name, and date of birth. The script extracts specific characters, validates that names do not contain numbers, generates random special characters, and alternates them with the processed string to create a structured yet unpredictable password. The final password is displayed in bold for better visibility. This approach makes the password more secure than a simple user-based pattern.
+
+---
+
+
 ## Technologies Used
 - HTML
 - CSS
