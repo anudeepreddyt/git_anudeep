@@ -49,6 +49,14 @@ This project generates a unique and semi-random password based on user input. Th
 
 ---
 
+**clock/
+
+This project is a simple and responsive digital clock built using HTML, CSS, and JavaScript.
+It displays the current time in a 12-hour format with AM/PM, updating every second using setInterval().
+The clock is centered on the page with a custom background for a clean and modern UI.
+
+---
+
 
 ## Technologies Used
 - HTML
