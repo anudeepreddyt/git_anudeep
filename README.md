@@ -57,6 +57,13 @@ The clock is centered on the page with a custom background for a clean and moder
 
 ---
 
+**stopwatch/
+
+A simple and responsive stopwatch built using HTML, CSS, and JavaScript.
+Features include start, stop (pause), resume, and reset functionality with accurate time tracking (hours, minutes, seconds, and milliseconds).
+
+---
+
 
 ## Technologies Used
 - HTML
