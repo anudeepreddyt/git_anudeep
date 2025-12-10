@@ -64,6 +64,12 @@ Features include start, stop (pause), resume, and reset functionality with accur
 
 ---
 
+**calculator/
+
+This calculator uses JavaScript functions and event listeners to handle user input and evaluate expressions. The display is an <input> field updated through three main functions: appendToDisplay(input) adds numbers or operators to the display, clearDisplay() resets the display, and calculate() evaluates the current expression using eval() and shows the result. All calculator buttons are handled through a single loop. Each button triggers an action based on its value: if the button value is "=", the expression is evaluated; otherwise, the button’s value is appended to the display.
+
+---
+
 
 ## Technologies Used
 - HTML
