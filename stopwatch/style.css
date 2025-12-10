@@ -1,0 +1,54 @@
+#watchContainer{
+    display: flex;
+    flex-direction: column;
+    color:white;
+    text-align: center;
+    justify-items: center;
+    justify-content: center;
+    height: 80vh;
+    border: 10px;
+    margin: 0;
+}
+#label1{
+    display: flex;
+    flex-direction: column;
+    height:150px;
+    font-size: 3em;
+}
+#watch{
+    display: flex;
+    flex-direction: column;
+    height: 110px;
+    border: 5px solid;
+    border-color: antiquewhite;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    font-family: monospace;
+}
+body{
+    background-image: url(/images/the-texture-of-the-dark-black-carbon-slab-is-illuminated-from-the-top.webp);
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-position: center ;
+    background-attachment: fixed;
+    margin: 0;
+}
+.buttons{
+    justify-items: center;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 8px 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+#startButton{
+    background-color: rgb(99, 195, 99);
+}
+#stopButton{
+    background-color: rgb(238, 63, 63);
+}
+#resetButton{
+    background-color: rgb(186, 239, 81);
+}
