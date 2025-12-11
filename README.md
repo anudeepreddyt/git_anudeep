@@ -70,6 +70,11 @@ This calculator uses JavaScript functions and event listeners to handle user inp
 
 ---
 
+**rcs/
+
+A simple and interactive Rock-Paper-Scissors game built using HTML, CSS, and JavaScript.Players can choose Rock, Paper, or Scissors, and the computer generates a random choice.The game displays both selections and shows whether the player wins, loses, or ties.Includes a Reset button to clear the results and play again.
+
+---
 
 ## Technologies Used
 - HTML
