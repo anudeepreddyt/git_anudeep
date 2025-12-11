@@ -76,6 +76,13 @@ A simple and interactive Rock-Paper-Scissors game built using HTML, CSS, and Jav
 
 ---
 
+**fetchdatafromapi/
+
+A simple JavaScript app that fetches and displays Pokemon details using the PokeAPI.The user enters a Pokemon name, and the app retrieves its sprite image and shows it on the screen.Includes basic error handling for unknown Pokémon names.The user can any link that provide img with a ref name by copy pasting link in js file.
+
+---
+
+
 ## Technologies Used
 - HTML
 - CSS
