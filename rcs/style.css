@@ -1,0 +1,33 @@
+#container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+#label{
+    font-size: 3.5em;
+    font-style: oblique;
+    margin-bottom: 60px;
+    
+}
+.buttons{
+    font-size: 30px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 15px;
+    cursor:pointer;
+    transition: background-color 0.25s;
+}
+.buttons:hover{
+    background-color: rgba(93, 2, 46, 0.556);
+}
+#labelContainer{
+    font-weight: bold;
+    margin: 50px;
+    font-size: 30px;
+    text-align: center;
+}
+body{
+    background-color: rgb(107, 102, 102);
+}
+
