@@ -82,15 +82,11 @@ A simple JavaScript app that fetches and displays Pokemon details using the Poke
 
 ---
 
-**weatherApp/
+**Weather_AQI_App/
 
-A simple and clean weather app built using HTML, CSS, and JavaScript. Users can enter any city name to instantly see the city, temperature (°C), weather condition, and humidity. The app fetches live data from the OpenWeather API and displays it using dynamic DOM elements. If an invalid city is entered, a clear error message appears. Lightweight, beginner-friendly, and great for learning API integration.
-
----
-
-**AQI_App/
-
-A clean and simple web app that lets you check the real-time Air Quality Index for any city. Just enter a city name and the app fetches live AQI data using the OpenWeather Air Pollution API. It shows the current AQI level, major pollutants like PM2.5, PM10, NO₂, O₃, and more. The background color also changes automatically based on how good or bad the air quality is — making the experience more visual and easy to understand. This project is a great example of working with APIs, handling user input, updating the DOM, and creating smooth UI feedback using JavaScript.
+This is a simple and clean web app that lets you check the real-time Weather and Air Quality Index (AQI) of any city using the OpenWeather API. It automatically finds the city’s coordinates, fetches the data, and updates the UI with smooth transitions and color indicators based on air quality. It also handles errors, validates inputs, and neatly switches between Weather and AQI views for a better user experience.
+Features: Search any city for Weather or AQI, view live details like temperature, humidity, conditions, AQI levels, and pollutants (PM2.5, PM10, NO₂, O₃), dynamic background color based on AQI, and smart error handling.
+Tech Used: HTML, CSS, JavaScript, OpenWeather API.
 
 ---
 
