@@ -2,6 +2,8 @@ JavaScript Projects Repository
 
 This repository contains multiple beginner-friendly JavaScript projects that helped me practice DOM manipulation, events, logic, and UI handling.
 
+NOTE:- YOU CAN ACCESS WEATHER_AQI_APP THROUGH THIS LINK (https://anudeepreddyt.github.io/git_anudeep/)
+
 Project List
 
 
