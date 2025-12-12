@@ -82,6 +82,12 @@ A simple JavaScript app that fetches and displays Pokemon details using the Poke
 
 ---
 
+**weatherApp/
+
+A simple and clean weather app built using HTML, CSS, and JavaScript. Users can enter any city name to instantly see the city, temperature (°C), weather condition, and humidity. The app fetches live data from the OpenWeather API and displays it using dynamic DOM elements. If an invalid city is entered, a clear error message appears. Lightweight, beginner-friendly, and great for learning API integration.
+
+---
+
 
 ## Technologies Used
 - HTML
