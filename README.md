@@ -88,6 +88,12 @@ A simple and clean weather app built using HTML, CSS, and JavaScript. Users can 
 
 ---
 
+**AQI_App/
+
+A clean and simple web app that lets you check the real-time Air Quality Index for any city. Just enter a city name and the app fetches live AQI data using the OpenWeather Air Pollution API. It shows the current AQI level, major pollutants like PM2.5, PM10, NO₂, O₃, and more. The background color also changes automatically based on how good or bad the air quality is — making the experience more visual and easy to understand. This project is a great example of working with APIs, handling user input, updating the DOM, and creating smooth UI feedback using JavaScript.
+
+---
+
 
 ## Technologies Used
 - HTML
