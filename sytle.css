@@ -1,0 +1,47 @@
+#container1{
+    margin: 0%;
+    display: block;
+    text-align: center;
+    align-items: center;
+}
+body{
+    background-color: hsla(180, 100%, 85%, 0.593);
+}
+#cityName{
+    font-size: 1.2em;
+    font-weight: bold;
+    border-radius: 5px;
+    border: bold;
+    padding: 7px 9px;
+}
+.buttons{
+    font-size: 1.4em;
+    padding: 5px;
+    margin-left: 11px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: hsla(0, 0%, 10%, 0.782);
+    transition: background-color 0.25s;
+    color: white;
+}
+.buttons:hover{
+    background-color: black;
+}
+#container2{
+    display: none;
+    margin-top: 70px;
+    margin-left:600px;
+    padding: 16px;
+    box-shadow: 0 6px 16px black;
+    font-size: 25px;
+    background: linear-gradient(45deg,hsla(240, 100%, 75%, 0.53),hsla(0, 100%, 75%, 0.51));
+    border-radius: 8px;
+    text-align: center;
+    width:320px;
+    position: absolute;
+   
+}
+.error{
+    color: black;
+    font-weight: 700;
+}
